@@ -97,7 +97,7 @@
                             android:layout_height="match_parent"
                             android:layout_weight="45"
                             android:fontFamily="@font/gotham"
-                            android:text="Pune"
+                            android:text="Hyderabad"
                             android:textAlignment="center"
                             android:textColor="#FFFFFF"
                             android:textSize="18sp" />
@@ -114,7 +114,7 @@
                             android:layout_height="match_parent"
                             android:layout_weight="45"
                             android:fontFamily="@font/gotham"
-                            android:text="Mumbai"
+                            android:text="Karachi"
                             android:textAlignment="center"
                             android:textColor="#FFFFFF"
                             android:textSize="18sp" />
@@ -129,7 +129,7 @@
                         android:layout_below="@+id/linearLayout"
                         android:layout_marginTop="8dp"
                         android:fontFamily="@font/print_clearly"
-                        android:text="12th - Feb - 2019 | Tuesday"
+                        android:text="25th - Sep - 2022 | Sunday"
                         android:textAlignment="center"
                         android:textColor="#FFFFFF"
                         android:textSize="18sp" />
@@ -200,7 +200,7 @@
                                 android:layout_width="match_parent"
                                 android:layout_height="wrap_content"
                                 android:fontFamily="@font/calibri"
-                                android:text="$600.00"
+                                android:text="PKR 600.00"
                                 android:textAlignment="textEnd"
                                 android:textColor="#f5a622"
                                 android:textSize="24sp"
@@ -212,7 +212,7 @@
                                 android:layout_marginTop="4dp"
                                 android:layout_marginBottom="4dp"
                                 android:fontFamily="@font/calibri"
-                                android:text="3.30 Hour"
+                                android:text="2.30 Hour"
                                 android:textAlignment="textEnd"
                                 android:textColor="#b3b3b3" />
                         </LinearLayout>
@@ -282,7 +282,7 @@
                                 android:layout_width="match_parent"
                                 android:layout_height="wrap_content"
                                 android:fontFamily="@font/calibri"
-                                android:text="$560.00"
+                                android:text="PKR 560.00"
                                 android:textAlignment="textEnd"
                                 android:textColor="#f5a622"
                                 android:textSize="24sp"
@@ -294,7 +294,7 @@
                                 android:layout_marginTop="4dp"
                                 android:layout_marginBottom="4dp"
                                 android:fontFamily="@font/calibri"
-                                android:text="4 Hour"
+                                android:text="3 Hour"
                                 android:textAlignment="textEnd"
                                 android:textColor="#b3b3b3" />
                         </LinearLayout>
@@ -364,7 +364,7 @@
                                 android:layout_width="match_parent"
                                 android:layout_height="wrap_content"
                                 android:fontFamily="@font/calibri"
-                                android:text="$450.00"
+                                android:text="PKR 450.00"
                                 android:textAlignment="textEnd"
                                 android:textColor="#f5a622"
                                 android:textSize="24sp"
@@ -446,7 +446,7 @@
                                 android:layout_width="match_parent"
                                 android:layout_height="wrap_content"
                                 android:fontFamily="@font/calibri"
-                                android:text="$375.00"
+                                android:text="PKR 375.00"
                                 android:textAlignment="textEnd"
                                 android:textColor="#f5a622"
                                 android:textSize="24sp"
@@ -458,7 +458,7 @@
                                 android:layout_marginTop="4dp"
                                 android:layout_marginBottom="4dp"
                                 android:fontFamily="@font/calibri"
-                                android:text="2.45 Hour"
+                                android:text="3.50 Hour"
                                 android:textAlignment="textEnd"
                                 android:textColor="#b3b3b3" />
                         </LinearLayout>
@@ -540,7 +540,7 @@
                                 android:layout_marginTop="4dp"
                                 android:layout_marginBottom="4dp"
                                 android:fontFamily="@font/calibri"
-                                android:text="3.00 Hour"
+                                android:text="1.50 Hour"
                                 android:textAlignment="textEnd"
                                 android:textColor="#b3b3b3" />
                         </LinearLayout>

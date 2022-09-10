@@ -38,7 +38,7 @@
 
     </com.google.android.material.appbar.AppBarLayout>
 
-    <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    <RelativeLayout
         android:layout_width="match_parent"
         android:layout_height="match_parent"
         android:layout_marginTop="-16dp"
@@ -71,7 +71,7 @@
                         android:layout_centerHorizontal="true"
                         android:layout_marginTop="16dp"
                         android:fontFamily="@font/print_clearly"
-                        android:text="Hey Shanky!"
+                        android:text="Hey There!"
                         android:textAlignment="center"
                         android:textColor="#FFFFFF"
                         android:textSize="32sp" />
